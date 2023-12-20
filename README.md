@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ranganathan-J
+- 👋 Hi, I’m Ranganathan J
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning dsa and python
-- 💞️ I’m looking for collaborate to some open source project
+- 💞️ I’m looking collaborate to some open-source project
 - 📫 How to reach me:
 https://www.linkedin.com/in/ranganathanj1730/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BSuLgxzHUQ6Oi2IfuFwO5Uw%3D%3D
 <!---/ 
